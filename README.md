@@ -5,5 +5,5 @@ I have finished learning these programming languages:
 - None, check back later to see what I've mastered! 😀
 
 I am currently learning:
-- Responsive Web Design [0%] 💻
+- Responsive Web Design [10.6%] 💻
   - Basic HTML & HTML 5 [75%] 🌐
